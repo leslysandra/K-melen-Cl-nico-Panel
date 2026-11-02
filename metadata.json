@@ -1,0 +1,6 @@
+{
+  "name": "Kümelen Clínico — Panel de Triage y Seguimiento de Cirrosis Rural",
+  "description": "Panel clínico mHealth del Servicio de Salud Araucanía Sur para triage, monitoreo de encefalopatía hepática, titulación de lactulosa y priorización de rondas médicas rurales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
